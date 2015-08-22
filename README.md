@@ -5,3 +5,4 @@ ACM-ICPC 2015 Workshop : Basic Problems & Solving Algorithms
   #506 – System Dependencies (Directed Graph+D&C)
   #523 – Minimum Transport Cost (Weighted Graph + Modified DP-SSSPs/APSPs)
   #551 -  Nesting a Bunch of Brackets (Stack)
+  http://www.slideshare.net/dmodify/basic-problems-and-solving-algorithms
